@@ -157,6 +157,6 @@ terraform destroy -auto-approve
 
 ## 🧑‍💻 Author
 
-**Idowu** — created for the Hv Infrastructure Take-Home Interview
+**Esther** — created for the Hv Infrastructure Take-Home Interview
 
 
